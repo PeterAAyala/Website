@@ -45,7 +45,10 @@ export default {
       {
         test: /\.md$/,
         use: [{
-          loader: 'raw-loader',
+          loader: 'file-loader',
+          options: {
+            name: '[name].[ext]',
+          }
         }],
       }, {
         test: /\.css$/,
