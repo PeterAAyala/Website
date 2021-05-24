@@ -6,8 +6,8 @@ const positions = [
     link: 'https://www.bain.com/',
     daterange: 'July 2019 - Present',
     points: [
-      'Second year associate consultant rated "Frequently Exceeding" (top ~15% of cohort) every review cycle' ,
-      'Active member of Bain\'s campus and diversity recruiting teams, and Latinos at Bain',
+      'First year associate consultant currently on rotation withing Bain\'s Private Equity Group (July 2019 - Present)' ,
+      'Active member of Bain\s campus and diversity recruiting teams, and Latinos at Bain',
       'Select deal experiences and responsibilities available on request'
     ],
   }, {

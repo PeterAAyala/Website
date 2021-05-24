@@ -16,10 +16,6 @@ const data = [
     path: '/projects',
     label: 'Projects',
   },
-  {
-    path: '/blog',
-    label: 'Blog',
-  },
 ];
 
 export default data;
